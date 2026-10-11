@@ -53,6 +53,8 @@ Your task is to containerize this existing application using Docker. You need to
 ## Reflection Question
 **Answer the following question in the space below**: How does containerization with Docker differ from using virtual machines, and why might a development team choose Docker containers over VMs for deploying applications like the one you just containerized?
 
+I noticed that it's definitely faster. It's utilizing an app with docker vs using physical hardware with a virtual machine. My computer doesn't struggle as much when using Docker which is definitely a plus. Since Docker is used for continuity between different OS, it makes sense why dev teams would choose Docker over VMs. Putting them into a container makes it much easier to start the application, and takes up a lot less memory space when it is ran.
+
 
 
 ## Application Requirements for Docker
